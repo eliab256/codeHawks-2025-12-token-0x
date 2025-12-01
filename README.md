@@ -31,14 +31,13 @@ DeFi protocols can use this token as a base token for their protocol for rewards
 
 ## Scope (contracts)
 
-```js
+```
 src/
 ├── ERC20.sol
 ├── IERC20.sol
 ├── helpers
    ├── IERC20Errors.sol
    └── ERC20Internals.sol
-
 ```
 
 ## Compatibilities
